@@ -1,0 +1,1 @@
+Ever since we had STEM classes in our school where we tinkered with lego ev3, a keen interest in robotics has built up in me that i wish to pursue on a higher level. In regards to this project specifically, a self balancing gyrobot would help me dive into the world of arduino and strengthen my basics so I am able to build much more complex mechanics in the near future.
